@@ -1,0 +1,10 @@
+{
+  "name": "ai-job-assistant",
+  "version": "1.0.0",
+  "description": "AI 求职小助手 - 大专层次 AI/计算机类求职辅助",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {}
+}
