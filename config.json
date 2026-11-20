@@ -1,0 +1,6 @@
+{
+  "baseUrl": "https://open.bigmodel.cn/api/paas/v4",
+  "apiKey": "PUT_YOUR_KEY_IN_RENDER_ENV",
+  "model": "glm-4.5-flash",
+  "adminToken": "A8QA4PEY"
+}
